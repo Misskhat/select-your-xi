@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://i.ibb.co.com/vCQrBbxW/shakib-al-hasan.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 9.5,
+    "typeOfBat": "Left-Hand Bat",
+    "typeOfBall": "Slow Left-Arm Orthodox",
+    "price": 120000
+  },
+  {
+    "id": 2,
+    "playerName": "Mushfiqur Rahim",
+    "playerImg": "https://i.ibb.co.com/B57gZhZ6/mushfiqur-rahim.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicket-Keeper Batsman",
+    "rating": 8.7,
+    "typeOfBat": "Right-Hand Bat",
+    "typeOfBall": "None",
+    "price": 100000
+  },
+  {
+    "id": 3,
+    "playerName": "Mustafizur Rahman",
+    "playerImg": "https://i.ibb.co.com/R4QRJ7ss/mustafizur-rahman.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 8.9,
+    "typeOfBat": "Left-Hand Bat",
+    "typeOfBall": "Left-Arm Fast-Medium",
+    "price": 110000
+  },
+  {
+    "id": 4,
+    "playerName": "Tamim Iqbal",
+    "playerImg": "https://i.ibb.co.com/BVhxZPJ7/tamim-iqbal.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "rating": 8.5,
+    "typeOfBat": "Left-Hand Bat",
+    "typeOfBall": "None",
+    "price": 95000
+  },
+  {
+    "id": 5,
+    "playerName": "Mahmudullah Riyad",
+    "playerImg": "https://i.ibb.co.com/N25xpG2d/mahmudullah-riyad.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 8.3,
+    "typeOfBat": "Right-Hand Bat",
+    "typeOfBall": "Offbreak",
+    "price": 90000
+  },
+  {
+    "id": 6,
+    "playerName": "Litton Das",
+    "playerImg": "https://i.ibb.co.com/jvnTJf5m/litton-das.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicket-Keeper Batsman",
+    "rating": 8.4,
+    "typeOfBat": "Right-Hand Bat",
+    "typeOfBall": "None",
+    "price": 87000
+  },
+  {
+    "id": 7,
+    "playerName": "Andre Russell",
+    "playerImg": "https://i.ibb.co.com/4ZL2SCPH/andre-russell.jpg",
+    "playerCountry": "West Indies",
+    "playerType": "All-Rounder",
+    "rating": 9.3,
+    "typeOfBat": "Right-Hand Bat",
+    "typeOfBall": "Right-Arm Fast",
+    "price": 150000
+  },
+  {
+    "id": 8,
+    "playerName": "Chris Gayle",
+    "playerImg": "https://i.ibb.co.com/b5hyGmGT/chris-gayle.jpg",
+    "playerCountry": "West Indies",
+    "playerType": "Batsman",
+    "rating": 9.0,
+    "typeOfBat": "Left-Hand Bat",
+    "typeOfBall": "Right-Arm Offbreak",
+    "price": 140000
+  },
+  {
+    "id": 9,
+    "playerName": "Kieron Pollard",
+    "playerImg": "https://i.ibb.co.com/9mTjmwMP/kieron-pollard.jpg",
+    "playerCountry": "West Indies",
+    "playerType": "All-Rounder",
+    "rating": 9.1,
+    "typeOfBat": "Right-Hand Bat",
+    "typeOfBall": "Right-Arm Medium",
+    "price": 145000
+  },
+  {
+    "id": 10,
+    "playerName": "Imran Tahir",
+    "playerImg": "https://i.ibb.co.com/jPrqGJkw/imran-tahir.jpg",
+    "playerCountry": "South Africa",
+    "playerType": "Bowler",
+    "rating": 8.6,
+    "typeOfBat": "Right-Hand Bat",
+    "typeOfBall": "Legbreak Googly",
+    "price": 105000
+  },
+  {
+    "id": 11,
+    "playerName": "David Miller",
+    "playerImg": "https://i.ibb.co.com/XfYv0VLB/david-miller.jpg",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 8.8,
+    "typeOfBat": "Left-Hand Bat",
+    "typeOfBall": "None",
+    "price": 125000
+  },
+  {
+    "id": 12,
+    "playerName": "Rashid Khan",
+    "playerImg": "https://i.ibb.co.com/nMpS6X0T/rashid-khan.jpg",
+    "playerCountry": "Afghanistan",
+    "playerType": "All-Rounder",
+    "rating": 9.4,
+    "typeOfBat": "Right-Hand Bat",
+    "typeOfBall": "Legbreak Googly",
+    "price": 160000
+  }
+]
