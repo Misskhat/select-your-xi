@@ -1,11 +1,16 @@
-import React from 'react';
+import React from "react";
+import SelectedPlayer from "../SelectedPlayer/SelectedPlayer";
 
-const Selected = () => {
+
+const Selected = ({selectedPlayers, removePlayer}) => {
+    // console.log(selectedPlayers);
     return (
-        <div className='max-w-[1240px] mx-auto'>
-            Selected Section
+        <div>
+           {
+            selectedPlayers.map((player, index) => <SelectedPlayer key={index} removePlayer={removePlayer} player={player}></SelectedPlayer>)
+           }
         </div>
-    );
+    )
 };
 
 export default Selected;
